@@ -1,0 +1,16 @@
+.edit {
+  background-color: skyblue;
+  margin-left: 5px;
+}
+.delete {
+  background-color: red;
+  margin-left: 5px;
+}
+input[type="submit"] {
+  background-color: green;
+}
+
+.list {
+  background-color: antiquewhite;
+  margin-bottom: 5px;
+}
